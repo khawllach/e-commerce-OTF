@@ -1,0 +1,38 @@
+.root{
+    font-family: 'Italiana';
+font-style: normal;
+}
+.btn {
+  padding: 17px 24px;
+  border-radius: 29px;
+  border: none;
+ 
+  cursor: pointer;
+  transition: 0.3s ease;
+  width: 410px;
+  font-family: 'Italiana';
+font-style: normal;
+font-size: 18px;
+}
+
+/* Button 1 */
+.btn-shop {
+  background-color: #000000;
+  color: white;
+}
+
+.btn-shop:hover {
+    box-shadow: 0px 0px 14px rgba(0, 0, 0, 0.9);
+}
+
+/* Button 2 */
+.btn-explore {
+  background-color: #ffffff;
+  color: #111827;
+  border: 1px solid #111827;
+}
+
+.btn-explore:hover {
+  background-color: #d1d5db;
+}
+

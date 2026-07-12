@@ -1,0 +1,68 @@
+.root{
+    font-family: 'Italiana';
+font-style: normal;
+}
+.contact-section{
+    display: flex;
+    flex-direction:row;
+    gap: 35rem;
+    margin-left: 150px;
+    align-items: center;
+}
+.contact-links{
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    gap: 2rem;  
+    cursor: pointer;
+}
+
+
+.signup{
+    display:flex;
+    flex-direction:column;
+    width: 800px;
+    margin-bottom: 20px;
+}
+.signup p{
+    font-size: 30px;
+    color: #254ea7;
+}
+.email-signup{
+    display:flex;
+    flex-direction:row;
+    gap: 1rem;
+
+}
+.email-signup input{
+    width: 400px;
+    height: 30px;
+    border-radius: 20px;
+    border: 1px solid #000000;
+    padding-left: 1rem;
+}
+.email-signup button{
+    width: 100px;
+    height: 35px;
+    border-radius: 20px;
+    border: none;
+    background-color: #000000;
+    color: #ffffff;
+    cursor: pointer;
+    font-family: 'Italiana';
+font-style: normal;
+}
+.footer-sections{
+    display:flex;
+    flex-direction:row;
+    gap: 10rem;
+    margin-left: 150px;
+}
+footer{
+    display:flex;
+    flex-direction:row;
+    gap: 10rem;
+}
+.footer2{
+    margin-top: 2.6rem;
+}

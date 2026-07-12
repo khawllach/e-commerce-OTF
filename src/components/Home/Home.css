@@ -1,0 +1,62 @@
+.root{
+    font-family: 'Italiana';
+font-style: normal;
+}
+.home{
+    margin:0 150px;
+}
+.hero-title{
+    font-size: 4rem;
+    font-weight: 100;
+    
+}
+.intro{
+    display:flex;
+    flex-direction: row;
+    gap: 2rem;
+}
+.intro-center{
+    display:flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+.intro-right{
+    display:flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+.intro-left-img{
+    height: 27rem;
+}
+.intro-right-bottom{
+    display:flex;
+    flex-direction: row;
+    gap: 0.5rem;
+}
+.intro-right-bottom-img{
+    width: 13rem;
+    height: 9.5rem;
+}
+.intro-right-img{
+    width: 26rem;
+    height: 17rem;
+}
+.intro-center-bottom{
+    display:flex;
+    flex-direction: row;
+    gap: 1rem;
+    margin-top: 0.5rem;
+    border: 1px solid #000000;
+    border-radius: 20px;
+}
+.intro-center-bottom-img{
+    width: 16rem;
+    height: 17.6rem;
+    border-radius: 20px;
+}
+.intro-center-bottom-text{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 1.6rem;
+}
